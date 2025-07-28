@@ -1,0 +1,7 @@
+// LLVMBuild.txt
+[component_0]
+type = Library
+name = NestedIfCombine
+parent = Transforms
+library_name = NestedIfCombine
+required_libraries = Analysis Core Support TransformUtils
